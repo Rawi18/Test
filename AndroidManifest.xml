@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test">
+    <testcase classname="Test.SystemUiHider" name="UiH">
+    </testcase>
+	<testcase classname="Test.SystemUiHiderBase" name="UiHB">
+    </testcase>
+    <testcase classname="Test.SystemUiHiderHoneycomb" name="UiHbc">
+    </testcase>
+    <testcase classname="Test.FullscreenActivity" name="FA">
+    </testcase>
+</testsuite>
